@@ -39,7 +39,7 @@ def simple_calculator(operation: str, num1: float, num2: float) -> float:
     
 def request_sanitized_number (prompt: str) -> float:
     """
-    Function that prompts the user for a number and ensures that the input is valid..
+    Function that prompts the user for a number and ensures that the input is valid...
 
     Args:
         prompt (str): The message to display when asking for input.
